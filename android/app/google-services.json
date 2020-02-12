@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "219021650421",
+    "firebase_url": "https://roosterspizza.firebaseio.com",
+    "project_id": "roosterspizza",
+    "storage_bucket": "roosterspizza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219021650421:android:2d836a4a33967180",
+        "android_client_info": {
+          "package_name": "com.roosterspizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219021650421-lnmcsr729p1s8tkstoril8b2th1ch3s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGl_MST-1VBYIDV1SvAG_NpuxIJwzO5lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219021650421-lnmcsr729p1s8tkstoril8b2th1ch3s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219021650421:android:18f41fb5d3d77770",
+        "android_client_info": {
+          "package_name": "com.roosterspizzaandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219021650421-lnmcsr729p1s8tkstoril8b2th1ch3s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGl_MST-1VBYIDV1SvAG_NpuxIJwzO5lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219021650421-lnmcsr729p1s8tkstoril8b2th1ch3s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

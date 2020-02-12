@@ -1,0 +1,4 @@
+#Mon Oct 14 13:27:58 MSK 2019
+base.0=/home/gozhev/ROOSTERSPIZZA_APP/1.2.1/roosterspizza/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
